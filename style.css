@@ -46,12 +46,12 @@ body {
 
 .text h1 {
     margin-bottom: 15px;
-    font-size: 19px;
+    font-size: 1.2rem;
     width: 100%;
 
 }
 
 .text p {
     opacity: 0.7;
-    font-size: 14px;
+    font-size: 0.9rem;
 }
